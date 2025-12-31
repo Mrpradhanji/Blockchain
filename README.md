@@ -26,9 +26,7 @@ A brief explanation on the basic workflow of the application.
 - [Metamask](https://metamask.io/) (Browser Extension)
 
 #### Getting the requirements
-
 1. Download and install **NodeJS**
-
    Download and install NodeJS from [here](https://nodejs.org/en/download/ "Go to official NodeJS download page.").
 
 1. Install **truffle** and **ganache-cli** using node packager manager (npm)
