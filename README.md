@@ -152,16 +152,3 @@ Please provide appropriate credit when using or extending this work.
 
 
 ---
-
-✅ This README is:
-- IEEE-style  
-- Recruiter-friendly  
-- Academic + practical  
-- Ready for **GitHub Releases & citations**
-
-If you want next:
-- 🔥 IEEE-style **GitHub Release text**
-- 🧑‍💼 Resume bullets from this project
-- 💼 LinkedIn post announcing your publication
-
-Just tell me 👌
